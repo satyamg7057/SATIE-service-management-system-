@@ -1,0 +1,73 @@
+/* Change Brand Font */
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  /* Change Navigation Color */
+  .navbar #myMenu .custom-nav .nav-item a {
+    color: rgb(251, 251, 251);
+  }
+  
+  .navbar #myMenu .custom-nav .nav-item a:hover {
+    color: #e9ec11;
+  }
+  
+  /* Make Header Image Responsive */
+  .back-image {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    border-radius: 0px;
+    margin-top: 74px;
+  }
+  
+  /* Header Image Sub-Title */
+  .font-italic {
+    font-size: 24px;
+  }
+  
+  a {
+    color: rgb(205, 201, 201);
+  }
+  
+  .active {
+    color: rgb(222, 232, 82);
+    background-color: #0e1011;
+  }
+  
+  a:hover {
+    color: #f8ff20;
+  }
+  
+  /* Change Footer Icon Link Color */
+  .fi-color {
+    color: #1d775488;
+  }
+  
+  fi-color:hover {
+    color: #e4e8b7;
+  }
+  
+  /* Plus Button for adding New Users Bottom Right */
+  .box {
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    margin-bottom: 30px;
+  }
+  
+  /* Setting Margin for Welcome to SATIE */
+  .mainHeading {
+    margin-top: 50px;
+  }
+  
+  /* Setting Margin and Alignment for Welcome to OSM Mobile View */
+  @media only screen and (max-width: 600px) {
+    .myclass {
+      margin-top: 350px;
+      text-align: center;
+    }
+  }
