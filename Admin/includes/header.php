@@ -73,7 +73,7 @@
       <li class="nav-item">
        <a class="nav-link <?php if(PAGE == 'sellreport') { echo 'active'; } ?>" href="soldproductreport.php">
         <i class="fas fa-table"></i>
-        Sell Report
+        Sell Reports
        </a>
       </li>
       <li class="nav-item">
