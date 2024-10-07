@@ -112,7 +112,6 @@ This page contains all the assigned request made by user. Admin can view or dele
 Request:
 This is the most important module of admin panel where admin can assign the work/request made by user/request. If there is any invalid request admin can delete that request without assigning them.
 
-          Assets:
 The main work is to accomplish in this module is to add, modify or remove any asset of the service centre. This contains few sub modules through which are performed. These are as follower 
 
 •	New: This is used to add new product part in the service centre.
