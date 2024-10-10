@@ -1,3 +1,5 @@
+SATIE
+
 1.1 INTRODUCTION 	 
 
 Online service managements system is India’s leading chain of multi-brand Electronics and Electrical service workshops offering wide array off services. We focus on enhancing  your uses experience by offering world-class Electronic Appliance maintenance services. Our sole mission is “To provide Electronic Application care services to keep the devices fit and healthy and smiling ’’. With well-equipped Electronic Appliances service centers and fully trained mechanics, we provide quality services with excellent packages that are designed to offer you great saving. Our -of-art workshops are conveniently located in many cities across the country.
@@ -19,30 +21,38 @@ The specific objective of the synopsis included  -
 
 1.4 MODULES AND THEIR DESCRIPTION :
 
-Home 
-This module of the portal contains all the links of the system such as Services, Contact Us, Registration, Login, User Panel, Admin Panel Technician, Requester, Sell Report, Work Report, Change Password, Logout.
+Home : 
+      This module of the portal contains all the links of the system such as Services, Contact Us, Registration, Login, User Panel, Admin Panel Technician, Requester, Sell Report, Work Report, Change Password, Logout.
+![image](https://github.com/user-attachments/assets/87ff8295-f7a9-489a-90af-57e3d84e1559)
 
-Service:
-This module describes which services company provides to its customers.
+
+Service: 
+	This module describes which services company provides to its customers.
+![image](https://github.com/user-attachments/assets/bb33c825-0827-40dd-bad6-1201677231e7)
+
 
 Registration:
-This System which provides a Registration form where user/requesters can register themselves and submit Services Request.
+        This System which provides a Registration form where user/requesters can register themselves and submit Services Request.
+![image](https://github.com/user-attachments/assets/5ee8dfab-ddb0-42f2-8599-e60259f3b2a9)
+
 
 Contact:
-By this module of the web portal the user can contact us.
+       By this module of the web portal the user can contact us.
+![image](https://github.com/user-attachments/assets/0522dc11-5e98-4472-81f0-b432edcdcb2c)
+
 
 Login:
-
-This module is used to login/signup in the list of the Online Service Management System.
+        This module is used to login/signup in the list of the Online Service Management System.
+![image](https://github.com/user-attachments/assets/3f6cacd1-e9c4-4660-8781-83affad653fe)
 
 User Panel:
-This module contains a Profile, Submit Request, Service status, Change password, Logout, Admin Login.
+        This module contains a Profile, Submit Request, Service status, Change password, Logout, Admin Login.
 
 Admin Panel:
-This module contains a Dashboard, Work Order, Request, Assets.
+        This module contains a Dashboard, Work Order, Request, Assets.
 
 Technician:
-The main work is to accomplish in this module is to add, modify or remove Technician of the Service center.
+      The main work is to accomplish in this module is to add, modify or remove Technician of the Service center.
 
 
 1.5 INPUT / OUTPUT  MODULE
